@@ -1,0 +1,3 @@
+/tmp/f1
+/tmp/f2
+/tmp/f3
